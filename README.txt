@@ -1,0 +1,1 @@
+This website contains all of my personal information relevant to the business of software engineering and also showcases some of my work and happy clients.
