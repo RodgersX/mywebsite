@@ -1,9 +1,9 @@
 {
-  "name": "John_Doe",
+  "name": "brian-mawira",
   "version": "1.5.0",
-  "description": "An elegant responsive bootstrap 4.x theme.",
+  "description": "Portfolio site to showcase my work",
   "main": "gulpfile.js",
-  "author": "DevCRUD",
+  "author": "Mawira",
   "scripts": {
     "start": "gulp"
   },

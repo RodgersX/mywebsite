@@ -16,7 +16,7 @@ const clean         = require('gulp-clean');
 // Paths
 var paths = {
     root: { 
-        www:        './public/'
+        www:        './'
     },
     src: {
         root:       'public/assets',
@@ -28,11 +28,11 @@ var paths = {
         scss:       'public/assets/scss/**/*.scss'
     },
     dist: {
-        root:       'public/dist',
-        css:        'public/dist/css',
-        js:         'public/dist/js',
-        imgs:       'public/dist/imgs',
-        vendors:    'public/dist/vendors'
+        root:       'dist',
+        css:        'dist/css',
+        js:         'dist/js',
+        imgs:       'dist/imgs',
+        vendors:    'dist/vendors'
     }
 }
 
