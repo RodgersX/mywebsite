@@ -1,0 +1,20 @@
+{
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "description": "portfolio site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "netlify dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodgersX/mywebsite.git"
+  },
+  "author": "Mawira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RodgersX/mywebsite/issues"
+  },
+  "homepage": "https://github.com/RodgersX/mywebsite#readme"
+}
